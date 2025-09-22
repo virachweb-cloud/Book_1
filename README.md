@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to your project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/9aa6e155-3f30-45a3-9ec8-36242835d58c
+**URL**: https://book-1-66j5.vercel.app/
 
 ## How can I edit this code?
 
@@ -10,9 +10,9 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9aa6e155-3f30-45a3-9ec8-36242835d58c) and start prompting.
+Simply visit the  and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/9aa6e155-3f30-45a3-9ec8-36242835d58c) and click on Share -> Publish.
+Simply open and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
