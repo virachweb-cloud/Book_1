@@ -69,7 +69,7 @@ const Index = () => {
           <hr className="my-12 border-t bored-600 text-primary w-3/4 mx-auto" />
 
           <p className=" text-secondary mb-4">
-              ఆంధ్రప్రదేశ్ ముఖ్యమంత్రి<br/> <strong>శ్రీ నారా చంద్రబాబు నాయుడు</strong> గారు ఆవిష్కరించిన పుస్తకం
+              ఆంధ్రప్రదేశ్ ముఖ్యమంత్రి<br/> <strong>శ్రీ నారా చంద్రబాబు నాయుడు</strong> గరిచే ఆవిష్కరించబడిన పుస్తకం
             </p>
           <div className="flex justify-center mb-8">
                   <img
