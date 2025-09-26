@@ -66,6 +66,22 @@ const Index = () => {
             చదవండి లేదా PDF డౌన్‌లోడ్ చేసుకోండి
           </Button>
 
+          <hr className="my-12 border-t bored-600 text-primary w-3/4 mx-auto" />
+
+          <p className=" text-secondary mb-4">
+              ఆంధ్రప్రదేశ్ ముఖ్యమంత్రి<br/> <strong>శ్రీ నారా చంద్రబాబు నాయుడు</strong> గారు ఆవిష్కరించిన పుస్తకం
+            </p>
+          <div className="flex justify-center mb-8">
+                  <img
+                    src="/Launched by CM.png"
+                    alt="Launched by CM"
+                    className="w-58 h-48 object-cover rounded-lg shadow-lg"
+                  />
+                </div>
+          
+          <hr className="my-12 border-t bored-600 text-primary w-3/4 mx-auto" />
+
+
           {/* About Section */}
           <div className="mt-16 text-left max-w-3xl mx-auto">
             <h3 className="text-2xl font-semibold text-secondary mb-6 flex items-center gap-3">
@@ -118,11 +134,11 @@ const Index = () => {
                 />
               </div>
               <p>
-              
+
                 <div className ="flex flex-col items-center ">
                 <strong>ఆర్. కె. ఆచార్యులు</strong> (AP High Court Standing Counsel)
                 <strong>శ్రీమతి ఆర్. అనురాధ</strong> (VBM స్కూల్ Correspondent)
-                
+
                 </div>
               </p>
             </div>
